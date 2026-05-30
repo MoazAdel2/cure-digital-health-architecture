@@ -1,6 +1,6 @@
 # CURE Distributed Digital Health Architecture
-**Author:** [Moaz Ade]
-**Live Production URL:** [https://d1efrh7ogcs9xx.cloudfront.net]
+**Author:** Moaz Adel
+**Live Production URL:** https://d1efrh7ogcs9xx.cloudfront.net
 
 ## Project Overview
 ![CURE Architecture Diagram](CloudArch.png)
