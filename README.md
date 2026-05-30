@@ -1,5 +1,6 @@
 # CURE Distributed Digital Health Architecture
 **Author:** Moaz Adel
+
 **Live Production URL:** https://d1efrh7ogcs9xx.cloudfront.net
 
 ## Project Overview
