@@ -3,6 +3,7 @@
 **Live Production URL:** [https://d1efrh7ogcs9xx.cloudfront.net]
 
 ## Project Overview
+![CURE Architecture Diagram](Cloud Arch.png)
 This repository contains the architecture blueprint and deployment pipeline for CURE's digital health environment. The infrastructure was deliberately designed on AWS to prioritize **Network Isolation**, **High Availability**, and **Production Readiness**.
 
 ## Architecture & Network Topology Justification
